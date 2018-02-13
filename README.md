@@ -23,9 +23,9 @@ If you want player management you have to set Config.EnablePlayerManagement to t
 
 ###### FEATURES
 
-Reporter job
-Boss, Investigator, Reporter and Trainee grades
-Cloakroom, Vault, Vehicles, BossActions
-Cloakroom : Different outfits limited to the equivalent or higher grade
-Spawning car without dust
-Billing menu
+- Reporter job
+- Boss, Investigator, Reporter and Trainee grades
+- Cloakroom, Vault, Vehicles, BossActions
+- Cloakroom : Different outfits limited to the equivalent or higher grade
+- Spawning car without dust
+- Billing menu
