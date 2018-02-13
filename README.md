@@ -1,4 +1,4 @@
-# esx_journaliste
+# ESX_JOURNALISTE
 
 FXServer ESX REPORTER JOB
 
